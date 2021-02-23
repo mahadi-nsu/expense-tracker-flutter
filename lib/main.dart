@@ -1,5 +1,3 @@
-import 'package:expensetracker/widgets/new_transaction.dart';
-import 'package:expensetracker/widgets/transaction_list.dart';
 import 'package:expensetracker/widgets/user_transaction.dart';
 import 'package:flutter/material.dart';
 

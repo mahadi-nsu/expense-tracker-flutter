@@ -38,6 +38,6 @@ class _MyHomePageState extends State<MyHomePage> {
         appBar: AppBar(
           title: Text("Expense Tracker"),
         ),
-        body: UserTranasction());
+        body: SingleChildScrollView(child: UserTranasction()));
   }
 }

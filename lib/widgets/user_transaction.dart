@@ -16,7 +16,23 @@ class _UserTranasctionState extends State<UserTranasction> {
     Transaction(
         id: 't1', title: 'New Shoes', amount: 99.98, date: DateTime.now()),
     Transaction(
-        id: 't2', title: 'New Groceries', amount: 19.98, date: DateTime.now())
+        id: 't2', title: 'New Groceries', amount: 19.98, date: DateTime.now()),
+    Transaction(
+        id: 't3', title: 'New Groceries', amount: 19.98, date: DateTime.now()),
+    Transaction(
+        id: 't4', title: 'New Groceries', amount: 19.98, date: DateTime.now()),
+    Transaction(
+        id: 't5', title: 'New Groceries', amount: 19.98, date: DateTime.now()),
+    Transaction(
+        id: 't6', title: 'New Groceries', amount: 19.98, date: DateTime.now()),
+    Transaction(
+        id: 't7', title: 'New Groceries', amount: 19.98, date: DateTime.now()),
+    Transaction(
+        id: 't8', title: 'New Groceries', amount: 19.98, date: DateTime.now()),
+    Transaction(
+        id: 't9', title: 'New Groceries', amount: 19.98, date: DateTime.now()),
+    Transaction(
+        id: 't10', title: 'New Groceries', amount: 19.98, date: DateTime.now())
   ];
 
   void _addNewTransaction(String txTitle, double txAmount) {
